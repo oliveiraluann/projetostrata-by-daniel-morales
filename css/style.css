@@ -2,3 +2,12 @@ body {
     font-family: 'Open Sans', arial, helvetica, sans-serif;
     color: #666;
 }
+
+.main-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 35%;
+    background: #CCC;
+}
