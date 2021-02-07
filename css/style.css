@@ -1,6 +1,7 @@
 body {
     font-family: 'Open Sans', arial, helvetica, sans-serif;
     color: #666;
+    line-height: 1.8;
 }
 
 .main-header {
@@ -10,4 +11,11 @@ body {
     height: 100%;
     width: 35%;
     background: #CCC;
+}
+
+.main-content {
+    width: 65%;
+    margin-left: 35%;
+    padding: 124px 54px 72px;
+    box-sizing: border-box;
 }
