@@ -76,7 +76,7 @@ pre code {
 ul, ol {
     margin: 0;
     padding: 0;
-    padding-left: 1em;
+    padding-left: 1.1em;
 }
 
 li {
@@ -147,4 +147,13 @@ li {
     margin-left: 35%;
     padding: 124px 54px 72px;
     box-sizing: border-box;
+}
+
+.row {
+    overflow: auto;
+}
+
+.col-2 {
+    width: 50%;
+    float: left;
 }
