@@ -96,6 +96,17 @@ li {
     border: 0;
 }
 
+.ul-icon {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.ul-icon li {
+    display: inline-block;
+    font-size: 2em;
+    color: #49bf9d;
+}
+
 .main-header {
     position: fixed;
     top: 0;
