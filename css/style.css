@@ -160,6 +160,10 @@ input[type="radio"], input[type="checkbox"] {
     text-align: center;
 }
 
+.imagem-link {
+    border: 0;
+}
+
 .table {
     width: 100%;
     margin: 0 0 2em 0;
