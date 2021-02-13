@@ -282,6 +282,16 @@ input[type="radio"], input[type="checkbox"] {
     border-radius: 5px;
 }
 
+.main-footer {
+    position: fixed;
+    bottom: 0;
+    width: 35%;
+    left: 0;
+    padding: 0 54px 72px 0;
+    box-sizing: border-box;
+    text-align: right;
+}
+
 /* Grid */
 .row {
     overflow: auto;
